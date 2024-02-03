@@ -17,7 +17,7 @@ body {
 
 #prediction-section {
     display: grid;
-    grid-template-columns: .8fr 1.4fr .8fr;
+    grid-template-columns: .001fr 1.4fr .8fr;
 }
 
 #config-area {
